@@ -1,3 +1,5 @@
+Запросите список городов и штатов из таблицы STATION .
+
 Select city, state from Station;
 
 Acme LA 
