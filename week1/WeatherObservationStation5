@@ -1,3 +1,7 @@
+Выполните запрос к таблице STATION , чтобы найти два города с самым коротким и самым длинным названием ,
+а также их длину (т.е. количество символов в названии). Если городов меньше или меньше одного, 
+выберите тот, который находится первым в алфавитном порядке.
+
 Select CITY, LENGTH(CITY) From (Select CITY, ROW_NUMBER() OVER (ORDER BY LENGTH(CITY), CITY) r1, ROW_NUMBER() OVER (ORDER BY LENGTH(CITY) DESC, CITY) r2 From STATION) Where r1 = 1 Or r2 = 1;
 
 Amo 3
