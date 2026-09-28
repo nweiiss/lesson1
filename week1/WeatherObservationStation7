@@ -1,0 +1,22 @@
+Select distinct city from station where Lower(city) like '%a' or Lower(city) like '%e' or Lower(city) like '%i' or Lower(city) like '%o' or Lower(city) like '%u';
+
+Acme 
+Aguanga 
+Alba 
+Aliso Viejo 
+Alpine 
+Amazonia 
+Amo 
+Andersonville 
+Archie 
+Arispe 
+Arkadelphia 
+Atlantic Mine 
+Baileyville 
+Bainbridge 
+Barrigada 
+Baton Rouge 
+Bayville 
+Bellevue 
+Bentonville 
+Bertha {-truncated-}
