@@ -8,7 +8,7 @@
 
 ## Изображение
 
-![Картинка](https://placehold.co/600x300)
+![Картинка](https://share.google/MG0lyvgY80QytsbYf)
 
 ## Пример кода
 
