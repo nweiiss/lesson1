@@ -1,3 +1,6 @@
+Запросите список названий городов , оканчивающихся на гласные (a, e, i, o, u), из таблицы STATION. 
+Результат не должен содержать дубликатов.
+
 Select distinct city from station where Lower(city) like '%a' or Lower(city) like '%e' or Lower(city) like '%i' or Lower(city) like '%o' or Lower(city) like '%u';
 
 Acme 
