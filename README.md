@@ -8,7 +8,7 @@
 
 ## Изображение
 
-![Картинка](https://share.google/OUB9MnP7Bbyehnuv2)
+![Картинка](image.jpeg)
 
 ## Пример кода
 
