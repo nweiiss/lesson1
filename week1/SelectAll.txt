@@ -1,3 +1,5 @@
+Выполните запрос ко всем столбцам (атрибутам) для каждой строки в таблице CITY .
+
 Select * from City;
 
 6 Rotterdam NLD Zuid-Holland 593321 
