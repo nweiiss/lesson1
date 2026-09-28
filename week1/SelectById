@@ -1,3 +1,4 @@
-```Sql
+
 Select * from City where ID = 1661;
 
+1661 Sayama JPN Saitama 162472
