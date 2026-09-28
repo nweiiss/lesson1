@@ -1,3 +1,5 @@
+Запросите все атрибуты каждого японского города в таблице CITY . Код страны для Японии — JPN.
+
 Select * from City where Countrycode = 'JPN';
 
 1613 Neyagawa JPN Osaka 257315 
