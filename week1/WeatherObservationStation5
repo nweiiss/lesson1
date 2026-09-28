@@ -1,0 +1,4 @@
+Select CITY, LENGTH(CITY) From (Select CITY, ROW_NUMBER() OVER (ORDER BY LENGTH(CITY), CITY) r1, ROW_NUMBER() OVER (ORDER BY LENGTH(CITY) DESC, CITY) r2 From STATION) Where r1 = 1 Or r2 = 1;
+
+Amo 3
+Marine On Saint Croix 21
