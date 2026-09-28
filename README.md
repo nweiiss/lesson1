@@ -1,10 +1,11 @@
-# My First Lesson
+````markdown
+# My First Repository
 
 ## Информация о репозитории
 
-**Название:** My First Lesson  
+**Название:** My First Repository  
 **Дата создания:** 28 сентября 2026 года  
-**Автор:** Melis
+**Автор:** Ваше имя
 
 Этот репозиторий создан в рамках учебного задания по работе с GitHub и Markdown.
 
