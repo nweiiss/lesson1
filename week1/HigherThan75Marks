@@ -1,0 +1,23 @@
+Найдите имя любого студента в разделе "СТУДЕНТЫ" , набравшего более высокий балл, чем..75 Оценки .
+Отсортируйте результаты по последним трем символам каждого имени. Если у двух или более студентов имена 
+заканчиваются на одни и те же последние три символа (например, Бобби, Робби и т. д.), выполните дополнительную сортировку по возрастанию ID
+
+SELECT NAME FROM STUDENTS WHERE MARKS > 75 ORDER BY RIGHT(NAME, 3), ID ASC;
+
+Stuart 
+Kristeen 
+Christene 
+Amina 
+Aamina 
+Priya 
+Heraldo 
+Scarlet 
+Julia 
+Salma 
+Britney 
+Priyanka 
+Samantha 
+Vivek 
+Belvet 
+Devil 
+Evil
