@@ -8,7 +8,7 @@
 
 ## Изображение
 
-![Картинка](https://share.google/MG0lyvgY80QytsbYf)
+![Картинка](https://share.google/OUB9MnP7Bbyehnuv2)
 
 ## Пример кода
 
