@@ -1,3 +1,5 @@
+Запросите названия всех японских городов из таблицы CITY . Код страны для Японии — JPN.
+
 Select name from City where Countrycode = 'JPN';
 
 Neyagawa 
