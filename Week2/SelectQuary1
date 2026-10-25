@@ -1,1 +1,7 @@
+Запрос ко всем столбцам таблицы CITY для всех американских городов 
+с населением более 100000. Код страны для Америки — USA.
 
+SELECT * FROM CITY 
+WHERE COUNTRYCODE = 'USA'
+AND POPULATION > 1000000
+ORDER BY ID;
