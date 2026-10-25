@@ -1,1 +1,9 @@
+Выполните запрос к полю NAME , чтобы найти все американские города в таблице CITY 
+с населением более 120000. Код страны для Америки — USA.
 
+select name from city where countrycode = 'USA' and Population > 120000;
+
+Scottsdale
+Corona
+Concord
+Cedar Rapids
